@@ -1,5 +1,5 @@
 ## Well, hello ✨
-Hey, my name is Simone. Chamo-me Simone. I am a fullstack engineer with a passion for solving real problems, building tools, and figuring out tough problems. My experience spans cross-continental banking and finance, IOT solutions, streaming & cross-domain applications, consulting, and product development. I like to understand how things work, take them apart and put them back together better than I found them in the first place.
+My name is Simone. Chamo-me Simone. I am a fullstack engineer with a passion for solving real-world issues, building tools, and figuring out tough problems. My experience spans cross-continental banking and finance, IOT solutions, streaming & cross-domain applications, consulting, and product development. I like to understand how things work, take them apart, and put them back together better than I found them in the first place.
 
 ### AboutMe.js
 ```js
