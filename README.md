@@ -1,6 +1,8 @@
 ## Well, hello ✨
 My name is Simone. Chamo-me Simone. I am a fullstack engineer with a passion for solving real-world issues, building tools, and figuring out tough problems. My experience spans cross-continental banking and finance, IOT solutions, streaming & cross-domain applications, consulting, and product development. I like to understand how things work, take them apart, and put them back together better than I found them in the first place.
 
+Currently I help co-oraganize [DevOps Lisbon](https://www.meetup.com/devops-lisbon/?eventOrigin=event_home_page), enjoy public speaking and connecting people together to share cross-domain knowledge. I believe that SWE and SRE should _never_ be in silo spaces from each other, and I love breaking down the barriers that exists.
+
 ### AboutMe.js
 ```js
 const svbygoibear = {
@@ -16,8 +18,8 @@ const svbygoibear = {
       description: "Ever since completing my SofleV2 project I have been thinking... What if I design my own? This is that. Designing my own PCB, creating my own case, and sharing it with everyone with small hands."
     },
     {
-      status: "paused",
-      statusreason: "immigration",
+      status: "research",
+      statusreason: "prototypes",
       title: "Plant Monitoring System",
       description: "I love plants. So, why not build a system of probes and cameras, plug them into wireless Raspberry Pis, and feed that info into one place? YES!"
     },
