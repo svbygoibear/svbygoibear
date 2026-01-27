@@ -36,12 +36,23 @@ const svbygoibear = {
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
-![EF](https://img.shields.io/badge/Entity%20Framework-JDF12?style=for-the-badge&logoColor=white&color=dd344c)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-GI234?style=for-the-badge&logo=Git&logoColor=white&color=%23F05032)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=fff)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+
+### Tech I Have Worked With
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp)
+![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+![EF](https://img.shields.io/badge/Entity%20Framework-JDF12?style=for-the-badge&logoColor=white&color=dd344c)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-OAI98?style=for-the-badge&logo=OpenAPI%20Initiative&logoColor=white&color=%236BA539)
 ![GitHubCopilot](https://img.shields.io/badge/GitHub%20Copilot-CO892?style=for-the-badge&logo=GitHub%20Copilot&logoColor=white&color=%23000000)
 
@@ -54,12 +65,3 @@ const svbygoibear = {
 ![AZ LogicApps](https://img.shields.io/badge/Azure-Logic%20App-JE14?style=for-the-badge&logoColor=white&color=EF2D5E)
 ![AZ AppService](https://img.shields.io/badge/Azure-App%20Service-AZ892?style=for-the-badge&logoColor=white&color=%230178d4)
 ![AZ CosmosDB](https://img.shields.io/badge/Azure-Cosmos%20DB-AZ892?style=for-the-badge&logoColor=white&color=%235ae9f7)
-
-
-
-
-
-
-
-
-
